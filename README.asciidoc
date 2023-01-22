@@ -8,13 +8,22 @@ Plaan on võtta aluseks eelmine aasta alustatud projekt.
 * Open world (I'll try)
 * Kind of bullet hell (but turn based, see supperhot)
 
-# code 
+# Languagde 
     * java
     * LibGDX (game engine)
 
 
-# PLAN
+# PLAN (the first challange) 
 
-Firstly the basic movement logic 
+* understand how to build up the game (Right way to store data in classes and the flow)
 
-+ 
+* firstly make map (one Mega tile big)
+
+* place player in it
+
+* make movement possible 
+
+* make it possible to drag the screen 
+
+* enemy ententies 
+
