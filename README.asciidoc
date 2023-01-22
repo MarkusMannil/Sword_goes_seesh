@@ -1,0 +1,21 @@
+# Here we are again  
+
+Plaan on võtta aluseks eelmine aasta alustatud projekt.
+
+Esimene NIMI _ sword_goes_SEESH
+
+* Grid based (prefferable square)
+* Turn based 
+* Open world (I'll try)
+* Kind of bullet hell (but turn based, see supperhot)
+
+# code 
+    * java
+    * LibGDX (game engine)
+
+
+# PLAN
+
+Firstly the basic movement logic 
+
++ 
