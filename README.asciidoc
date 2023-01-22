@@ -1,8 +1,7 @@
-# Here we are again  
+# Sword Goes SEESH 
 
 Plaan on võtta aluseks eelmine aasta alustatud projekt.
 
-Esimene NIMI _ sword_goes_SEESH
 
 * Grid based (prefferable square)
 * Turn based 
